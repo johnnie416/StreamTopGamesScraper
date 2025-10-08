@@ -21,4 +21,16 @@ A Python web scraper that collects top-selling games on Steam and exports the da
 ## How to Use
 1. Clone the repository:
    `bash
-   git clone https://github.com/YourUsername/SteamTopGamesScraper.git
+   git clone https://github.com/johnnie416/StreamTopGamesScraper.git
+
+2. Install dependencies:
+
+pip install requests beautifulsoup4 pandas
+
+
+3. Run the scraper:
+
+python steam_scraper.py
+
+
+4. Check steam_top_games.csv for the results.
