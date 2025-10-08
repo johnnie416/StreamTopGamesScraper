@@ -34,3 +34,7 @@ python steam_scraper.py
 
 
 4. Check steam_top_games.csv for the results.
+
+## Demo
+
+![Steam Top Games Scraper Demo](demo.gif)
